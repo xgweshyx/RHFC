@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(../img/8-24-1-4-19-12-55m.jpg);
+    background-repeat:no-repeat;
+    background-position: center;    
+    background-size:cover;
+    color: white;
+}
+
+form{
+    color: black;
+}
+
+.navbar{
+    background-color: crimson;
+}
+
+.h2{
+    padding: 2rem;
+}
+
+/* section {
+  box-shadow: 1px 1px 2px;
+} */
